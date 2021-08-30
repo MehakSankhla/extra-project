@@ -1,0 +1,45 @@
+body{
+    text-align:center;
+  
+  
+     
+  
+      background: linear-gradient( darkturquoise 40%,darkviolet  80%);
+  }
+  
+  
+  h3{
+      color:white;
+  }
+  
+  sp{
+  margin:10px;
+  }
+  img{
+    text-align: center;
+  width:50%
+  }
+  
+  #image4{
+  border-style:solid;
+  border-color:purple;
+  padding:20px;
+  border-radius:50px;
+  width:410px;
+  }
+  
+  .ibox{
+    width:200px;
+    margin:20px;
+   
+  }
+  
+      
+      
+  }
+  h1{
+       color:yellow;
+  }
+  h2{
+        color:crimson; 
+  }
